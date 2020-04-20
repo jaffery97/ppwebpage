@@ -6,7 +6,7 @@
 [Watch video with details on youtube](https://youtu.be/tbffE8Lh2Co).
 
 ## Demo
-[Click Here](https://repl.it/@LiveSportsSport/Know-your-symptoms).
+[Click Here](https://cpwebpage.herokuapp.com/).
 
 ### Download
 If you like to get the source code [Go Download](https://github.com/jaffery97/ppwebpage/archive/master.zip) to improve your C++ programming language skill and help your community through technology.
