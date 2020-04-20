@@ -34,7 +34,7 @@ if(isset($_POST['page_logout']))
         <?php
 if($_SESSION['password']=="123")
 {
-     
+
  ?>
 <!--        Create Password Protected Webpage Using PHP, HTML And CSS-->
         <h1>Welcome To Main Page</h1>
@@ -58,7 +58,7 @@ else
                 <font style="color:red;"><?php echo $error;?></font>
             </p>
         </form>
-        <?php	
+        <?php
 }
 ?>
 
