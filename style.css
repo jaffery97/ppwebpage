@@ -50,6 +50,7 @@ body {
     padding: 20px;
     box-sizing: border-box;
     box-shadow: 0px 0px 10px 0px #3B240B;
+    border-radius: 103px;
 }
 
 #login_form h1 {
@@ -75,7 +76,7 @@ body {
     border: none;
     box-shadow: 0px 4px 0px 0px #61380B;
     color: white;
-    border-radius: 103px;
+    border-radius: 3px;
 
 }
 
