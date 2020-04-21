@@ -80,7 +80,6 @@
         <div id="timeline">
             <div id="timeline_bar">
             </div>
-
             <li>Login</li>
             <li>Sign up</li>
             <li>Claim your employment</li>

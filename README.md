@@ -3,7 +3,7 @@
 
 
 ## Watch Video Tutorial
-[Watch video with details on youtube](https://youtu.be/tbffE8Lh2Co).
+[Watch video with details on youtube](https://youtu.be/gBrDSFeSFO4).
 
 ## Demo
 [Click Here](https://cpwebpage.herokuapp.com/).
