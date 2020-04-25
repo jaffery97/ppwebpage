@@ -9,6 +9,6 @@
 [Click Here](https://cpwebpage.herokuapp.com/).
 
 ### Download
-If you like to get the source code [Go Download](https://github.com/jaffery97/ppwebpage/archive/master.zip) to improve your C++ programming language skill and help your community through technology.
+If you like to get the source code [Go Download](https://github.com/jaffery97/ppwebpage/archive/master.zip)
 
 #### Need Help on your assignment ? [Go here](https://edchat.info/ed).
